@@ -1,0 +1,40 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR: Inigo Montoya
+ACTOR: Robin Wright
+PRICE: 1			
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: Charlie Chaplin
+PRICE: 2
+END
+BEGIN 21 Jump Street
+KEYWORD: comedy
+KEYWORD: Jonah Hill
+KEYWORD: Channing Tatum
+ACTOR: Jonah Hill
+ACTOR: Channing Tatun
+PRICE: 3
+END
+BEGIN Good Will Hunting
+KEYWORD: drama
+KEYWORD: Matt Damon
+KEYWORD: Robin Williams
+ACTOR: Matt Damon
+ACTOR: Robin Williams
+PRICE: 4
+END
+BEGIN The Social Network
+KEYWORD: drama
+KEYWORD: Jesse Eisenberg
+KEYWORD: Andrew Garfield
+ACTOR: Jesse Eisenberg
+ACTOR: Andrew Garfield
+PRICE: 5
+END
